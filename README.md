@@ -1,6 +1,6 @@
 <div align="center">
 
-# 👋 Hi, I'm Ankita Gandhi
+# Hi, I'm Ankita Gandhi
 
 ### 💻 Full-Stack Software Developer
 
